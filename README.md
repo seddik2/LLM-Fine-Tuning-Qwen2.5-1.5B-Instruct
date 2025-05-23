@@ -35,7 +35,7 @@ Essential libraries:
 
 The fine-tuned model and the training dataset can be accessed here:
 
-📦 **[Google Drive Link to Model and Dataset](https://drive.google.com/drive/folders/1n6mVdV2p8ETMAfqEmhBBGBYz5RPfsSAV?usp=drive_link)**  
+📦 **[Google Drive Link to Model and Dataset](https://drive.google.com/drive/folders/1n6mVdV2p8ETMAfqEmhBBGBYz5RPfsSAV?usp=sharing)**  
 
 ---
 
